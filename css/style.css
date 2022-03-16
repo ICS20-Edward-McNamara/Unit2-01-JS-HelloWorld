@@ -1,0 +1,14 @@
+body {
+	background-color: royalblue;
+}
+
+h1 {
+	background-color: #ea7910;
+	color: hsl(145, 63%, 32%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #06fe51;
+}
